@@ -1,0 +1,5 @@
+[user]
+	name = Mohammad Sami
+	email = mohammadsami@duck.com
+[core]
+	autocrlf = input
